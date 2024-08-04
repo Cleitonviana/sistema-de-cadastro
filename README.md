@@ -7,6 +7,9 @@ O objetivo é desenvolver uma solução para uma fazenda urbana, permitindo que 
 
 O projeto está em desenvolvimento, e, conforme realizarmos atualizações e melhorias, implementaremos novas versões neste repertório. Utilizaremos não apenas C#, mas também aplicaremos conhecimentos em Java, Python, HTML, CSS, e metodologias ágeis para garantir um desenvolvimento contínuo e alinhado aos requisitos levantados na primeira etapa.
 
+Neste projeto será adicionado algumas coisas que foram realizadas durante este processo de desenvolvimento mostrando tanto so testes na metodologia BDD quanto o esboço de como o projeto deverá ficar ao final de tudo.
+
+
 
 
 
